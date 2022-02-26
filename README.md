@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/seyityahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seyityahya" height="30" width="40" /></a>
 <a href="https://twitter.com/seyityahya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seyityahya3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seyit yahya kuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit yahya kuru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seyityahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit yahya kuru" height="30" width="40" /></a>
 <a href="https://instagram.com/seyityahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seyityahya" height="30" width="40" /></a>
 </p>
 
