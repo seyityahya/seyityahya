@@ -2,8 +2,6 @@
 <h3 align="center">I'm Jr. Front-end Developer in Turkey</h3>
 
 
-# [![seyit_header](https://raw.githubusercontent.com/erdodo/erdodo/main/react-svg-component-library-1.gif)](https://google.com)
-
 - 📚 I’m currently learning **Html, Css, JavaScript, React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seyityahya?tab=repositories](https://github.com/seyityahya?tab=repositories)
