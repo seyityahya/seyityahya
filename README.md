@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Seyit Yahya</h1>
-<h3 align="center">I'm Jr. Front-end Developer in Turkey</h3>
+<h3 align="center">I'm a Jr. Full Stack Web Developer</h3>
 
 How to reach me **seyityahya05@gmail.com**
 
